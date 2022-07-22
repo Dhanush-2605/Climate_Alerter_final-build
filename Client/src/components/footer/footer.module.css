@@ -1,0 +1,27 @@
+.container {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  padding: 50px;
+}
+.header {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin: 10px 0px;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin: 0px 15px;
+  cursor: pointer;
+}

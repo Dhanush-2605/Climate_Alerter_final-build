@@ -1,0 +1,9 @@
+__pycache__
+*/node_modules
+node_modules
+.idea
+.DS_Store
+.vscode
+.vscode-test
+.vscode-test-data
+.vscode-test-data-temp
